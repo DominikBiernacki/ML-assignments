@@ -1,1 +1,1 @@
-Assignments solutions for the University Machine Learning Course 2024-25.
+Assignments solutions made for the Machine Learning university course 2024-25.
